@@ -1,0 +1,49 @@
+* {
+   /* margin: 0; */
+}
+
+
+
+
+
+span {color:blue;
+}
+
+
+
+.purple {
+    border: 5px solid black;
+    margin: 70px 140px 90px 200px;
+    padding: 30px;
+    color: purple;
+    
+    
+    width: 700;
+    height: 700;
+    
+    
+    box-sizing: content-box;
+
+    text-align: center;
+
+    background-color:cyan;
+}
+
+.green {
+    color: green;
+    }
+
+.font {font-size: 40px}
+
+#text {
+    color: red;
+}
+
+
+
+
+.font__setting {
+    font-size: 50px;
+    font-weight: bold;
+    color: brown;
+}
